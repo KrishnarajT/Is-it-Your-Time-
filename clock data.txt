@@ -1,0 +1,211 @@
+The changed degree now is 270 Minute is 0
+The x position is 0
+The y position is 888
+The changed degree now is 276 Minute is 1
+The x position is -45
+The y position is 840
+The changed degree now is 282 Minute is 2
+The x position is -83
+The y position is 785
+The changed degree now is 288 Minute is 3
+The x position is -116
+The y position is 730
+The changed degree now is 294 Minute is 4
+The x position is -142
+The y position is 669
+The changed degree now is 300 Minute is 5
+The x position is -162
+The y position is 607
+The changed degree now is 306 Minute is 6
+The x position is -176
+The y position is 543
+The changed degree now is 312 Minute is 7
+The x position is -181
+The y position is 477
+The changed degree now is 318 Minute is 8
+The x position is -182
+The y position is 412
+The changed degree now is 324 Minute is 9
+The x position is -176
+The y position is 347
+The changed degree now is 330 Minute is 10
+The x position is -160
+The y position is 281
+The changed degree now is 336 Minute is 11
+The x position is -141
+The y position is 219
+The changed degree now is 342 Minute is 12
+The x position is -113
+The y position is 160
+The changed degree now is 348 Minute is 13
+The x position is -81
+The y position is 103
+The changed degree now is 354 Minute is 14
+The x position is -43
+The y position is 49
+The changed degree now is 360 Minute is 15
+The x position is 4
+The y position is -1
+The changed degree now is 6 Minute is 16
+The x position is 51
+The y position is -44
+The changed degree now is 12 Minute is 17
+The x position is 103
+The y position is -82
+The changed degree now is 18 Minute is 18
+The x position is 162
+The y position is -115
+The changed degree now is 24 Minute is 19
+The x position is 222
+The y position is -141
+The changed degree now is 30 Minute is 20
+The x position is 284
+The y position is -161
+The changed degree now is 36 Minute is 21
+The x position is 349
+The y position is -176
+The changed degree now is 42 Minute is 22
+The x position is 413
+The y position is -182
+The changed degree now is 48 Minute is 23
+The x position is 479
+The y position is -184
+The changed degree now is 54 Minute is 24
+The x position is 545
+The y position is -176
+The changed degree now is 60 Minute is 25
+The x position is 609
+The y position is -160
+The changed degree now is 66 Minute is 26
+The x position is 671
+The y position is -142
+The changed degree now is 72 Minute is 27
+The x position is 731
+The y position is -114
+The changed degree now is 78 Minute is 28
+The x position is 787
+The y position is -82
+The changed degree now is 84 Minute is 29
+The x position is 841
+The y position is -44
+The changed degree now is 90 Minute is 30
+The x position is 889
+The y position is 2
+The changed degree now is 96 Minute is 31
+The x position is 933
+The y position is 50
+The changed degree now is 102 Minute is 32
+The x position is 973
+The y position is 104
+The changed degree now is 108 Minute is 33
+The x position is 1005
+The y position is 160
+The changed degree now is 114 Minute is 34
+The x position is 1033
+The y position is 220
+The changed degree now is 120 Minute is 35
+The x position is 1053
+The y position is 282
+The changed degree now is 126 Minute is 36
+The x position is 1065
+The y position is 348
+The changed degree now is 132 Minute is 37
+The x position is 1071
+The y position is 416
+The changed degree now is 138 Minute is 38
+The x position is 1071
+The y position is 480
+The changed degree now is 144 Minute is 39
+The x position is 1065
+The y position is 545
+The changed degree now is 150 Minute is 40
+The x position is 1051
+The y position is 609
+The changed degree now is 156 Minute is 41
+The x position is 1029
+The y position is 673
+The changed degree now is 162 Minute is 42
+The x position is 1003
+The y position is 731
+The changed degree now is 168 Minute is 43
+The x position is 969
+The y position is 789
+The changed degree now is 174 Minute is 44
+The x position is 931
+The y position is 841
+The changed degree now is 180 Minute is 45
+The x position is 889
+The y position is 891
+The changed degree now is 186 Minute is 46
+The x position is 839
+The y position is 933
+The changed degree now is 192 Minute is 47
+The x position is 787
+The y position is 973
+The changed degree now is 198 Minute is 48
+The x position is 729
+The y position is 1005
+The changed degree now is 204 Minute is 49
+The x position is 669
+The y position is 1031
+The changed degree now is 210 Minute is 50
+The x position is 609
+The y position is 1053
+The changed degree now is 216 Minute is 51
+The x position is 542
+The y position is 1065
+The changed degree now is 222 Minute is 52
+The x position is 476
+The y position is 1071
+The changed degree now is 228 Minute is 53
+The x position is 410
+The y position is 1071
+The changed degree now is 234 Minute is 54
+The x position is 346
+The y position is 1065
+The changed degree now is 240 Minute is 55
+The x position is 281
+The y position is 1051
+The changed degree now is 246 Minute is 56
+The x position is 219
+The y position is 1032
+The changed degree now is 252 Minute is 57
+The x position is 158
+The y position is 1004
+The changed degree now is 258 Minute is 58
+The x position is 101
+The y position is 970
+The changed degree now is 264 Minute is 59
+The x position is 49
+The y position is 933
+
+
+		int Pos_X [ 60 ] = { 0, -45, -83, -116, -142, -162, -76, -181, -182, -176, -160, -141, -113 ,-81 ,-43 , 4, 51, 103, 162, 222, 284, 349, 413, 179, 545, 609, 671, 731, 787, 841, 889, 933, 973, 1005, 1033, 1053, 1065, 1071, 1071, 1065, 1051, 1029, 1003, 969, 931, 889, 839, 787, 729, 669, 609, 542, 476, 410, 346, 281, 219, 158, 101, 49};
+		int Pos_Y [ 60 ] = { 888, 840, 785, 730, 669, 607, 543, 477, 412, 347, 281, 219, 160, 103, 49, -1, -44, -82, -115, -141, -161, -176, -182, -184, -176, -160, -142, -114, -82, -44, 2, 50, 104, 160, 220, 282, 348, 416, 480, 545, 609, 673, 731, 789, 841, 891, 933, 973, 1005, 1031, 1053, 1065, 1071, 1071, 1065, 1051, 1032, 1004, 970, 933};
+	
+
+the estimated time let it be 
+10 30 
+and the real time let it be 10 34
+then what is the percentage of accuracy?
+how many revolutions is 10 30
+it is 10 plus .5
+so thats 10*60 + 30 mins
+and the game is about minute accuracy so it should make sense to count the mnutes for the percentage of accuracy
+630 mins and the real time was 1- 34 so thats 634 mins
+that means teh guy is mistaken by 4 mins
+so anyways we know that 4 + or 4- that means the same level of accuracy
+like if the answer is 5 and you choose 4 its the same as choosing 6
+so lets assume the smaller one for simpler calculations
+so let it be 626 mins 
+and so ( 624 / 630 ) * 100 = 99 %
+
+
+
+
+
+
+
+
+
+
